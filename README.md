@@ -35,7 +35,7 @@ También nos da un enlace a la página de CWE.MITRE.org y otro detalles como la 
 
 En la página de CWE.MITRE.org podemos ver información sobre las debilidades, nos indica que la aplicación no aplica correctamente la autorización apropiada en todas las urls o archivos restringidos, también nos indica que esa debilidad afecta a la Confidencialidad, Integridad, Disponiblilidad y Control de acceso.
 
-También nos ofrece posibles mitigaciones, por ejemplo, aplicando autorizaciones de control de acceso adecuadas para acceso a todas la urls o archivos restringidos, tambien indica utilizar marcos basados en **MVC** (Modelo Vista Controlador). Ademas ofrece una tabla con las relaciones que tiene esta debilidad con otras, vemos que es hija de otras, entre ellas una que es '*Omisión de autenticación mediante una ruta o canal alternativo*' y precede a otras debilidades como la de '*Modificación de datos supuestamente inmutables (MAID)*'.
+También nos ofrece posibles mitigaciones, por ejemplo, aplicando autorizaciones de control de acceso adecuadas para acceso a todas la urls o archivos restringidos, tambien indica utilizar marcos basados en **MVC** (Modelo Vista Controlador). Ademas ofrece una tabla con las relaciones que tiene esta debilidad con otras, vemos que es hija de otras, entre ellas una que es '***Omisión de autenticación mediante una ruta o canal alternativo***' y precede a otras debilidades como la de '***Modificación de datos supuestamente inmutables (MAID)***'.
 
 Incluso nos incluye un ejemplo demostrativo y unas referencias a patrones de ataque relacionados:
 
