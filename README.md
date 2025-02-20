@@ -7,8 +7,11 @@ En esta práctica vamos a realizar el trazado de la vulnerabilidad que se trata 
 ## Indice
 
 > 1.[Información en CVE.org](#información-en-cve.org)
+>
 > 2.[Información en CWE.MITRE.org](#información-en-cwe.mitre.org)
+>
 > 3.[Patrón de ataque](#patrón-de-ataque)
+>
 > 4.[Criticidad de la vulnerabilidad ](#criticidad-de-la-vulnerabilidad)
 ----
 
